@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    
+    background-image:url("aa.jpg");
+    background-repeat:repeat;
+    background-size: 800px;
+    background-color: #32be32;
+}
+
+#gameArea {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    border: 5px solid #040404;
+    background-color: #287690;
+    
+}
